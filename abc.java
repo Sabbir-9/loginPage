@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MyFirstJavaProgram {
 
    /* This is my first java program.
@@ -8,3 +9,6 @@ public class MyFirstJavaProgram {
       System.out.println("Hello World"); // prints Hello World
    }
 }
+=======
+/*This is second lab*/
+>>>>>>> 070621345efd1c41558ada1b639a2ab7cc99263f
